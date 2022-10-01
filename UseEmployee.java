@@ -23,7 +23,7 @@ public class UseEmployee {
 				index=i;
 		}
 	}
-		System.out.println(a.get(index).getName()+" "+a.get(index).getRole()+" "+ a.get(index).getSalary());
+		System.out.println(a.get(index).getName()+" "+ a.get(index).getSalary());
 }
 
 }
